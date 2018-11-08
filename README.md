@@ -1,5 +1,7 @@
 ## Twitter Sentiment Analysis
 
+![screen](https://i.imgur.com/gMpwyN7l.png)
+
 ### How to run the code
 
 Run Zookeper and Kakfa Server first:  
